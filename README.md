@@ -4,6 +4,7 @@ Welcome to the Borna Comprehensive Rehabilitation Centers Management Software! T
 
 ## Table of Contents
 
+- [Prerequisites](#Prerequisites)
 - [Installation](#installation)
 - [Subsystems](#subsystems)
 - [Technologies Used](#technologies-used)
@@ -12,10 +13,17 @@ Welcome to the Borna Comprehensive Rehabilitation Centers Management Software! T
 - [License](#license)
 - [Contact](#contact)
 
+## Prerequisites
+
+Before you begin, ensure that your system meets the following requirements:
+
+- Windows operating system
+- [.NET Framework 4.5.2](https://dotnet.microsoft.com/download/dotnet-framework/net452)
+
 ## Installation
 
 1. **Download the Setup File:**
-   - Download the latest setup file from the official repository.
+   - Download the latest setup file from the official repository.[here](https://github.com/drkalani/Borna_Setup/tree/main/Debug)
 
 2. **Run the Installer:**
    - Double-click the setup file to run the installation wizard.
